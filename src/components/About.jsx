@@ -6,17 +6,14 @@ const About = () => {
       <h4>Events</h4>
       <h2>ABOUT</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facilis
-        voluptas provident animi corrupti dolor, ipsum deleniti perferendis
-        veniam neque labore enim odio ratione. Ad commodi rem corporis soluta
-        sed reprehenderit a quasi nihil, odit aperiam exercitationem? Suscipit
-        rerum quibusdam inventore atque veritatis accusantium excepturi,
-        molestias optio perferendis aliquam harum, amet dolore! Animi
-        consequuntur officiis modi eius cumque reiciendis harum ipsum
-        praesentium numquam fugit? Consequatur eveniet recusandae harum hic. Eum
-        illo praesentium optio accusantium, hic quibusdam delectus voluptatem
-        qui a officiis dolorum minima cum illum culpa doloremque quia quidem aut
-        sed laudantium nam repudiandae sequi similique! Esse natus at quas?
+        At Jai Ambe Event Management, we breathe life into your celebrations, turning ideas into immersive experiences. 
+        Our passion lies in designing events that are as unique as you are, infused with creativity and vibrant energy. 
+        Named for the powerful and benevolent Goddess Ambe, we embody a spirit of strength and grace in everything we do.
+        We thrive on the challenge of bringing your theme to life, paying attention to the sensory details that make an event magical. 
+        Our dynamic team is your partner in creativity, ensuring a process that is as enjoyable as the event itself. We manage the 
+        complexities behind the scenes so you can fully embrace the moment. From stunning decor to seamless coordination,
+        we are committed to excellence. Trust Jai Ambe to create a celebration that will be remembered and cherished for
+        years to come.
       </p>
     </section>
   );

@@ -69,7 +69,7 @@ const Contact = () => {
               <div>
                 <input
                   type="text"
-                  placeholder="Name"
+                  placeholder="Full Name"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                 />
@@ -81,8 +81,8 @@ const Contact = () => {
                 />
               </div>
               <input
-                type="text"
-                placeholder="Subject"
+                type="number"
+                placeholder="contact no.."
                 value={subject}
                 onChange={(e) => setSubject(e.target.value)}
               />
