@@ -29,7 +29,7 @@ const Services = () => {
     },
     {
       id: 6,
-      url: "/.jpg",
+      url: "/wedding.jpg",
       title: "Wedding Planning",
     },
   ];
