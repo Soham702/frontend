@@ -41,16 +41,16 @@ const Contact = () => {
       <div className="contact container">
         <div className="banner">
           <div className="item">
-            <h4>Address</h4>
-            <p>Any where, Any City, 4521</p>
+            <h4>Call us</h4>
+            <p>+91 7046945481</p>
           </div>
           <div className="item">
             <h4>Call Us</h4>
-            <p>Call Us: +92-321-1111111</p>
+            <p>+91 9510312844</p>
           </div>
           <div className="item">
-            <h4>Mail Us</h4>
-            <p>zk@gmail.com</p>
+            <h4>Instagram</h4>
+            <p>@Jay_Ambe_Events02</p>
           </div>
         </div>
         <div className="banner">
