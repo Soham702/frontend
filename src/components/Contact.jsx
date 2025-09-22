@@ -55,13 +55,11 @@ const Contact = () => {
         </div>
         <div className="banner">
           <div className="item">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118106.71772249659!2d73.09068439469182!3d22.322081830866296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fc8ab91a3ddab%3A0xac39d3bfe1473fb8!2sVadodara%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1758521781631!5m2!1sen!2sin"
-              style={{ border: 0, width: "100%", height: "450px" }}
-              allowFullScreen=""
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            />
+            <img
+             src="/images/vadodara-map.jpg"
+             alt="Vadodara Map"
+             style={{ border: 0, width: "100%", height: "450px" }}
+           />
           </div>
           <div className="item">
             <form onSubmit={handleSendMessage}>
