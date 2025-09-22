@@ -56,7 +56,7 @@ const Contact = () => {
         <div className="banner">
           <div className="item">
             <img
-             src="/images/vadodara-map.jpg"
+             Path="C:\Users\Tushi\Downloads\MERN_STACK_EVENT_PROJECT-main\frontend\public\company logo.jpeg"
              alt="Vadodara Map"
              style={{ border: 0, width: "100%", height: "450px" }}
            />
